@@ -1,0 +1,7230 @@
+[
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Achatina",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Achatina.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Achatina_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "d3fd89bc-838d-4944-9f6b-07a6a7d13a13",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Allosaurus",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Allosaurus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Allo_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "4c152972-1311-4f97-b65e-d873b6f4aee0",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Alpha Carno",
+    "type": "Alpha Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Alpha_Carno.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "MegaCarno_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Carno/MegaCarno_Character_BP.MegaCarno_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "f7b00652-c0e1-4554-8c79-c1abad7e68e0",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Alpha Leedsichthys",
+    "type": "Alpha Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Alpha_Leedsichthys.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Alpha_Leedsichthys_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Leedsichthys/Alpha_Leedsichthys_Character_BP.Alpha_Leedsichthys_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "7f74eb58-97b0-4844-b671-78ca965c9f78",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Alpha Megalodon",
+    "type": "Alpha Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Alpha_Megalodon.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "MegaMegalodon_Character_BP_C",
+    "blueprintPath": "`",
+    "error": null,
+    "level": 150,
+    "id": "79a95fb3-6bb3-4f88-b64d-766b32c638ad",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Alpha Mosasaur",
+    "type": "Alpha Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Alpha_Mosasaur.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Mosa_Character_BP_Mega_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP_Mega.Mosa_Character_BP_Mega'",
+    "error": null,
+    "level": 150,
+    "id": "69035a87-b876-4836-bc35-7debc5b732ee",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Alpha Raptor",
+    "type": "Alpha Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Alpha_Raptor.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "MegaRaptor_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Raptor/MegaRaptor_Character_BP.MegaRaptor_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "ad559dd1-b43e-4b55-ad62-736e2efa2ffc",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Alpha T-Rex",
+    "type": "Alpha Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Alpha_T-Rex.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "MegaRex_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Rex/MegaRex_Character_BP.MegaRex_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "4ffb589b-89b8-4c71-8f3d-3f1feb4894cb",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Alpha Tusoteuthis",
+    "type": "Alpha Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Alpha_Tusoteuthis.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Mega_Tusoteuthis_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Tusoteuthis/Mega_Tusoteuthis_Character_BP.Mega_Tusoteuthis_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "af0f84b2-2f9b-43c9-b822-176669c4e36a",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Ammonite",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Ammonite.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Ammonite_Character_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Ammonite/Ammonite_Character.Ammonite_Character'",
+    "error": null,
+    "level": 150,
+    "id": "72f1ab5c-a02c-4e1f-91ee-45e8806f24cf",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Anglerfish",
+    "type": "Fish",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Anglerfish.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Angler_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "ea25dbf8-94ff-406f-9e45-2af451b749ec",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Ankylosaurus",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Ankylosaurus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Ankylo_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "c18047fc-b92d-43e7-a2bf-a1b83a763bd5",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Araneo",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Araneo.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "SpiderS_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Spider-Small/SpiderS_Character_BP.SpiderS_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "0952b5be-b005-4000-a3a1-8ff9d15c3e1c",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Archaeopteryx",
+    "type": "Birds",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Archaeopteryx.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Archa_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Archaeopteryx/Archa_Character_BP.Archa_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "31ce5ceb-d1bb-4d9f-99c1-b063e5e57e60",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Argentavis",
+    "type": "Birds",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Argentavis.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Argent_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "6774525a-9340-43fc-b8e2-c919e025a41f",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Arthropluera",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Arthropluera.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Arthro_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Arthropluera/Arthro_Character_BP.Arthro_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "957d2084-c20a-4c9a-bc3c-99f6d0a9d635",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Baryonyx",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Baryonyx.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Baryonyx_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Baryonyx/Baryonyx_Character_BP.Baryonyx_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "543204ad-f9a5-4c03-88f1-0a878be98f6f",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Basilosaurus",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Basilosaurus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Basilosaurus_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Basilosaurus/Basilosaurus_Character_BP.Basilosaurus_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "a2fff9d6-1897-40f4-a5ef-8c22359e36be",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Beelzebufo",
+    "type": "Reptiles",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Beelzebufo.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Toad_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Toad/Toad_Character_BP.Toad_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "838f9831-e65f-43f0-8fb3-2d0b637e1731",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Bunny Dodo",
+    "type": "Event Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Bunny_Dodo.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP_Bunny.Dodo_Character_BP_Bunny'",
+    "error": null,
+    "level": 150,
+    "id": "3b60a530-39af-4895-a9bb-4abb267916b8",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Bunny Oviraptor",
+    "type": "Event Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Bunny_Oviraptor.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Oviraptor/BunnyOviraptor_Character_BP.BunnyOviraptor_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "da90dbb1-080a-4ca0-833d-6f3c6861e483",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Brontosaurus",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Brontosaurus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Sauropod_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Sauropod/Sauropod_Character_BP.Sauropod_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "e6c3882f-7f9a-4902-beef-8a2422a0c1bd",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Broodmother Lysrix",
+    "type": "Bosses",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Broodmother_Lysrix.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "SpiderL_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Spider-Large/SpiderL_Character_BP.SpiderL_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "14000674-b50c-40db-b292-1b1a7dff705b",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Chalicotherium",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Chalicotherium.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Chalico_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Chalicotherium/Chalico_Character_BP.Chalico_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "2f702eee-3b1f-40a5-9089-fb02079bff3b",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Carbonemys",
+    "type": "Reptiles",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Carbonemys.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Turtle_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Turtle/Turtle_Character_BP.Turtle_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "12083c94-ff4c-44f9-adeb-ac72a65d24e9",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Carnotaurus",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Carnotaurus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Carno_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Carno/Carno_Character_BP.Carno_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "7f17a7bf-a73c-4b66-b017-52ad2b6e0026",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Castoroides",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Castoroides.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Beaver_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "5a760e9b-c20e-43ea-8b3f-49b55d1760ff",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Cnidaria",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Cnidaria.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Cnidaria_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Cnidaria/Cnidaria_Character_BP.Cnidaria_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "f712eac6-c31d-4e18-9e8f-c67eb19a364f",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Coelacanth",
+    "type": "Fish",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Coelacanth.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Coel_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Coelacanth/Coel_Character_BP.Coel_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "c73e72d4-0102-4d6a-8f23-e20da7d8d7f4",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Compy",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Compy.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Compy_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Compy/Compy_Character_BP.Compy_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "689dd395-96ba-4316-b2b4-32bbc454d8a8",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Daeodon",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Daeodon.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Daeodon_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Daeodon/Daeodon_Character_BP.Daeodon_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "8b38f397-8a28-4c91-8945-339312900fe1",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Deathworm",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Deathworm.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Deathworm_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/DeathWorm/DeathWorm_Character_BP.DeathWorm_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "1c328fa4-a2e8-406b-8f70-9258f098f1c1",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Dilophosaur",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Dilophosaur.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Dilo_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dilo/Dilo_Character_BP.Dilo_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "a0ac763f-96fb-4bf9-94a7-afa39cdcac5c",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Dimetrodon",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Dimetrodon.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Dimetro_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dimetrodon/Dimetro_Character_BP.Dimetro_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "402561e1-bccd-471b-a608-91f53b2c2677",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Dimorphodon",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Dimorphodon.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Dimorph_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dimorphodon/Dimorph_Character_BP.Dimorph_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "640eec15-c81b-438f-b33b-0cd3cd7f2e26",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Diplocaulus",
+    "type": "Amphibians",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Diplocaulus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Diplocaulus_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Diplocaulus/Diplocaulus_Character_BP.Diplocaulus_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "e11b94c2-9867-4867-b0f1-d6c76091d681",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Diplodocus",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Diplodocus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Diplodocus_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Diplodocus/Diplodocus_Character_BP.Diplodocus_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "96baa6bc-88fb-4be9-a6ee-fd9167ed0bc4",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Dire Bear",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Dire_Bear.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Direbear_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Direbear/Direbear_Character_BP.Direbear_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "84bab297-0414-4869-9897-7527e363c4fd",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Direwolf",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Direwolf.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Direwolf_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Direwolf/Direwolf_Character_BP.Direwolf_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "3a49fb45-493f-4204-a3fd-afb7a912a9a8",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "DodoRex",
+    "type": "Event Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-DodoRex.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "DodoRex_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/DodoRex/DodoRex_Character_BP.DodoRex_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "f2fa0b2b-e681-409b-be58-95b995896aa6",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Doedicurus",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Doedicurus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Doed_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP.Doed_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "50d524c5-2b5f-4a29-bd97-78afd38c99fe",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Dragon",
+    "type": "Bosses",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Dragon.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Dragon_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dragon/Dragon_Character_BP.Dragon_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "a95edfec-aa79-43ab-abe1-998c876b69b3",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Dung Beetle",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Dung_Beetle.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "DungBeetle_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP.DungBeetle_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "eb8c2131-b48a-4ae4-b48e-c8a91a259766",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Dunkleosteus",
+    "type": "Fish",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Dunkleosteus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Dunkle_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dunkleosteus/Dunkle_Character_BP.Dunkle_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "d32027c1-1425-4015-94b4-0c884569e1ce",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Electrophorus",
+    "type": "Fish",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Electrophorus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Eel_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Eel/Eel_Character_BP.Eel_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "4f0c4c41-7148-4e86-95ef-3de68f17375a",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Equus",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Equus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Equus_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "dd85006c-a838-4853-87c0-443df547df38",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Unicorn",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Unicorn.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Equus_Character_BP_Unicorn_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP_Unicorn.Equus_Character_BP_Unicorn'",
+    "error": null,
+    "level": 150,
+    "id": "3ba82051-35fc-4546-8dcf-953bf3ea90e3",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Eurypterid",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Eurypterid.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Euryp_Character_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Eurypterid/Euryp_Character.Euryp_Character'",
+    "error": null,
+    "level": 150,
+    "id": "0c980936-aff5-455f-a781-18b539202d52",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Gallimimus",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Gallimimus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Galli_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Gallimimus/Galli_Character_BP.Galli_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "0d6082cd-779e-4c3e-82e5-f7e738b1edba",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Giant Bee",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Giant_Bee.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Bee_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Bee/Bee_Character_BP.Bee_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "8c670cc1-7e3f-4918-922e-28ee0e1e60d4",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Giganotosaurus",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Giganotosaurus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Gigant_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "e0b067c3-b919-450e-9600-23a34de645d0",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Gigantopithecus",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Gigantopithecus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Bigfoot_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Bigfoot/Bigfoot_Character_BP.Bigfoot_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "a1ce4295-d0b8-460d-a113-304fd160cded",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Hesperornis",
+    "type": "Birds",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Hesperornis.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Hesperornis_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Hesperornis/Hesperornis_Character_BP.Hesperornis_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "eb8acaab-93ae-4399-abf2-a43529cede30",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Human (Male)",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Human_(Male).png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/PlayerPawnTest_Male.PlayerPawnTest_Male'",
+    "error": null,
+    "level": 150,
+    "id": "f82a18be-4056-4105-8f0e-4c322b1f967d",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Human (Female)",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Human_(Female).png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/PlayerPawnTest_Female.PlayerPawnTest_Female'",
+    "error": null,
+    "level": 150,
+    "id": "7b335b88-ed0c-492f-ac22-d812452292a7",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Hyaenodon",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Hyaenodon.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Hyaenodon_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Hyaenodon/Hyaenodon_Character_BP.Hyaenodon_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "1f1ca1b0-c62d-4b0b-8827-9c5449a889ce",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Ichthyornis",
+    "type": "Birds",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Ichthyornis.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Ichthyornis_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Ichthyornis/Ichthyornis_Character_BP.Ichthyornis_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "599427df-0e98-4d82-8881-5f2b51f94216",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Ichthyosaurus",
+    "type": "Reptiles",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Ichthyosaurus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Dolphin_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dolphin/Dolphin_Character_BP.Dolphin_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "260f94e2-24b0-4e81-92fb-1bfda2b7b579",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Iguanodon",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Iguanodon.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Iguanodon_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Iguanodon/Iguanodon_Character_BP.Iguanodon_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "13df14ec-94c6-4048-92c2-ba9268fbdd94",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Kairuku",
+    "type": "Birds",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Kairuku.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Kairuku_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Kairuku/Kairuku_Character_BP.Kairuku_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "1e0d8884-be9e-4100-9e92-65e7a22a2ca1",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Kaprosuchus",
+    "type": "Reptiles",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Kaprosuchus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Kaprosuchus_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Kaprosuchus/Kaprosuchus_Character_BP.Kaprosuchus_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "fa4e97fa-8cf9-4647-b6a4-1aa4942b54a9",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Kentrosaurus",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Kentrosaurus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Kentro_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Kentrosaurus/Kentro_Character_BP.Kentro_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "97eb9a30-1081-4930-98a6-65ba52c96985",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Leech",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Leech.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Leech_Character_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Leech/Leech_Character.Leech_Character'",
+    "error": null,
+    "level": 150,
+    "id": "5f3e00e9-8997-4ad5-a718-f8c816a1ec97",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Diseased Leech",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Diseased_Leech.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Leech_Character_Diseased_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Leech/Leech_Character_Diseased.Leech_Character_Diseased'",
+    "error": null,
+    "level": 150,
+    "id": "dd743dbe-d107-49b3-9739-726615595c06",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Leedsichthys",
+    "type": "Fish",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Leedsichthys.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Leedsichthys_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Leedsichthys/Leedsichthys_Character_BP.Leedsichthys_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "2fd51f56-3f83-4b06-89cd-67d36fc817f3",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Liopleurodon",
+    "type": "Reptiles",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Liopleurodon.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Liopleurodon_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Liopleurodon/Liopleurodon_Character_BP.Liopleurodon_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "d21800d4-b6d5-443c-a0ce-abf372f70229",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Lystrosaurus",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Lystrosaurus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Lystro_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Lystrosaurus/Lystro_Character_BP.Lystro_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "003387e3-862d-4b61-b056-de616e24b487",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Mammoth",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Mammoth.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Mammoth_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Mammoth/Mammoth_Character_BP.Mammoth_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "9046f0ea-210d-441b-bf13-eef0d02f5f27",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Manta",
+    "type": "Fish",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Manta.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Manta_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Manta/Manta_Character_BP.Manta_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "3d7b846a-2bc6-49e6-9fa5-017eded48790",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Manticore",
+    "type": "Bosses",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Manticore.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Manticore_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Manticore/Manticore_Character_BP.Manticore_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "332f5d4a-00a4-47fa-8d33-2ea00e1ac9dd",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Megalania",
+    "type": "Reptiles",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Megalania.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Megalania_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Megalania/Megalania_Character_BP.Megalania_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "80bf1e16-3f29-40a1-9e78-84bb1fbc8086",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Megaloceros",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Megaloceros.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Stag_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Stag/Stag_Character_BP.Stag_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "0786daa6-227d-4472-b45e-306a0fda6b24",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Megalodon",
+    "type": "Fish",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Megalodon.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Megalodon_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Megalodon/Megalodon_Character_BP.Megalodon_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "98aa6c17-367a-47f5-8a31-036998b1fd6c",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Megalosaurus",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Megalosaurus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Megalosaurus_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Megalosaurus/Megalosaurus_Character_BP.Megalosaurus_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "0148c5b1-8c32-47ae-a9c0-af1bb66f2aab",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Meganeura",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Meganeura.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Dragonfly_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dragonfly/Dragonfly_Character_BP.Dragonfly_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "e9587ddd-ce9b-4355-a80b-08f6f71db40a",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Megapithecus",
+    "type": "Bosses",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Megapithecus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Gorilla_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Gorilla/Gorilla_Character_BP.Gorilla_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "80dd774c-50bd-42e5-85e5-4c8560b44488",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Megatherium",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Megatherium.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Megatherium_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Megatherium/Megatherium_Character_BP.Megatherium_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "3dcad289-2a2a-4180-a4eb-bf18fb3210c6",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Mesopithecus",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Mesopithecus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Monkey_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Monkey/Monkey_Character_BP.Monkey_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "efc8972f-3363-45f4-b386-e958168d0022",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Microraptor",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Microraptor.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Microraptor_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Microraptor/Microraptor_Character_BP.Microraptor_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "467b622e-928c-479c-b039-5bcf91260a5c",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Mosasaurus",
+    "type": "Reptiles",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Mosasaurus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Mosa_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP.Mosa_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "9a422512-60c4-4f2a-b428-e081e6da2675",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Moschops",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Moschops.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Moschops_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Moschops/Moschops_Character_BP.Moschops_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "8bdfd74a-3dd0-4f41-91d3-c91842c4b715",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Onychonycteris",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Onychonycteris.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Bat_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Bat/Bat_Character_BP.Bat_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "a52fefd9-f30f-4a6f-91cb-3b970e95ce06",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Otter",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Otter.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Otter_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Otter/Otter_Character_BP.Otter_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "3a3de04f-7bf4-46b3-a439-5b2f9dd7369f",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Oviraptor",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Oviraptor.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Oviraptor_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Oviraptor/Oviraptor_Character_BP.Oviraptor_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "30543553-7173-425b-94e5-bc9bc6784e40",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Ovis",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Ovis.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Sheep_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "23cec553-45d3-4bc9-97ec-c36d63174579",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Pachy",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Pachy.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Pachy_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Pachy/Pachy_Character_BP.Pachy_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "039658b4-0c33-439d-9258-d79dbc1c13cb",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Pachyrhinosaurus",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Pachyrhinosaurus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Pachyrhino_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Pachyrhinosaurus/Pachyrhino_Character_BP.Pachyrhino_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "32eb19c8-7bb9-470a-b90d-0e564042e90d",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Paraceratherium",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Paraceratherium.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Paracer_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Paraceratherium/Paracer_Character_BP.Paracer_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "323e721b-9fd0-4a2b-96a2-77b754105eb3",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Parasaurolophus",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Parasaurolophus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Para_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Para/Para_Character_BP.Para_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "24235ef8-27b7-47cb-aaf7-12302bc34569",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Pegomastax",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Pegomastax.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Pegomastax_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Pegomastax/Pegomastax_Character_BP.Pegomastax_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "bb6a1d91-f6f2-422e-9acb-0a8b0863cac0",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Pelagornis",
+    "type": "Birds",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Pelagornis.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Pela_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Pelagornis/Pela_Character_BP.Pela_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "76874825-3b7e-4a98-96cf-e7469d1352ff",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Phiomia",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Phiomia.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Phiomia_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Phiomia/Phiomia_Character_BP.Phiomia_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "bab3b026-017b-4bf6-9c45-a5b194bd6115",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Phoenix",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Phoenix.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Phoenix_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Phoenix/Phoenix_Character_BP.Phoenix_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "c72e239b-99d2-4aa4-b108-bdcf30d6ad7b",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Piranha",
+    "type": "Fish",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Piranha.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Piranha_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Piranha/Piranha_Character_BP.Piranha_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "c45110aa-b3b1-4f81-bd1a-4a929f146677",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Plesiosaur",
+    "type": "Reptiles",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Plesiosaur.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Plesiosaur_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Plesiosaur/Plesiosaur_Character_BP.Plesiosaur_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "6385a463-b14b-49b1-b89f-9bf19bf8f146",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Procoptodon",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Procoptodon.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Procoptodon_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Procoptodon/Procoptodon_Character_BP.Procoptodon_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "594d01fa-554e-4126-97ac-a75bbfd2bd45",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Pteranodon",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Pteranodon.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Ptero_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Ptero/Ptero_Character_BP.Ptero_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "71b59e07-5dc7-4bb8-9072-5c359fc9ab61",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Pulmonoscorpius",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Pulmonoscorpius.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Scorpion_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Scorpion/Scorpion_Character_BP.Scorpion_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "9a2e2b04-c1b7-49e1-bf2c-1836831a2146",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Purlovia",
+    "type": "Synapsids",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Purlovia.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Purlovia_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Purlovia/Purlovia_Character_BP.Purlovia_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "581e0c11-67ce-4123-ad8f-c6be3884d932",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Quetzalcoatlus",
+    "type": "Reptiles",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Quetzalcoatlus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Quetz_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Quetzalcoatlus/Quetz_Character_BP.Quetz_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "a93f5eda-73d0-4af7-87fa-4f47cfdcef9b",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Raptor",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Raptor.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Raptor_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP.Raptor_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "bafc44d7-5447-41f5-9fca-7fb9f3916813",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Sabertooth",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Sabertooth.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Saber_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Saber/Saber_Character_BP.Saber_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "3c1cc2da-c542-4a2e-abb0-64f2bdccf817",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Sabertooth Salmon",
+    "type": "Fish",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Sabertooth_Salmon.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Salmon_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Salmon/Salmon_Character_BP.Salmon_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "2eb7e5d2-02cd-4e0f-a613-b252031173c2",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Sarco",
+    "type": "Reptiles",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Sarco.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Sarco_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Sarco/Sarco_Character_BP.Sarco_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "2e3d5a7e-1fd2-468d-b4d8-18ad6b1e797f",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Skeletal Bronto",
+    "type": "Event Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Skeletal_Bronto.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Bone_Sauropod_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Sauropod/Bone_Sauropod_Character_BP.Bone_Sauropod_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "d9a2473b-c8ea-4289-86b4-088a8621531e",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Skeletal Carnotaurus",
+    "type": "Event Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Skeletal_Carnotaurus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Bone_MegaCarno_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Carno/Bone_MegaCarno_Character_BP.Bone_MegaCarno_Character_B'",
+    "error": null,
+    "level": 150,
+    "id": "7eab8a8a-73cd-416c-9fb9-b9b4dd080091",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Skeletal Giganotosaurus",
+    "type": "Event Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Skeletal_Giganotosaurus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Bone_Gigant_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Giganotosaurus/Bone_Gigant_Character_BP.Bone_Gigant_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "0306924f-ea26-4ba8-a73d-79e8ae4c0b8c",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Skeletal Quetzal",
+    "type": "Event Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Skeletal_Quetzal.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Bone_Quetz_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Quetzalcoatlus/Bone_Quetz_Character_BP.Bone_Quetz_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "881fb564-d235-4ae6-a31e-1ce75723163d",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Skeletal Raptor",
+    "type": "Event Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Skeletal_Raptor.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Bone_MegaRaptor_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Raptor/Bone_MegaRaptor_Character_BP.Bone_MegaRaptor_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "b4bbd68e-786e-4a5d-b6c8-bf519f93fd4e",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Skeletal Rex",
+    "type": "Event Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Skeletal_Rex.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Bone_MegaRex_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Rex/Bone_MegaRex_Character_BP.Bone_MegaRex_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "cda9ae97-7b3f-4206-89da-f7b20045f4bf",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Skeletal Stego",
+    "type": "Event Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Skeletal_Stego.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Bone_Stego_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Stego/Bone_Stego_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "ce3084ce-e3e8-40e3-9b1d-42779ef8e8f9",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Skeletal Trike",
+    "type": "Event Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Skeletal_Trike.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Bone_Trike_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Trike/Bone_Trike_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "ae152070-824f-431d-b280-04de63bef128",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Spino",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Spino.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Spino_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP.Spino_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "7d0a74be-d462-4d38-aaaa-0bae3384492e",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Stegosaurus",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Stegosaurus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Stego_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "1134a08f-32da-4929-82c4-7cba2e65fdb8",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Tapejara",
+    "type": "Reptiles",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Tapejara.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Tapejara_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Tapejara/Tapejara_Character_BP.Tapejara_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "8f8add1e-7d4c-4a88-80cc-ea1fc04439e0",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Tek Parasaur",
+    "type": "Tek Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Tek_Parasaur.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "BionicPara_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Para/BionicPara_Character_BP.BionicPara_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "c333c078-269b-4921-a410-32bb4fb4ae98",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Tek Quetzal",
+    "type": "Tek Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Tek_Quetzal.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "BionicQuetz_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Quetzalcoatlus/BionicQuetz_Character_BP.BionicQuetz_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "73db93ce-2264-4eb9-aabd-32fc316327fb",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Tek Raptor",
+    "type": "Tek Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Tek_Raptor.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "BionicRaptor_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Raptor/BionicRaptor_Character_BP.BionicRaptor_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "2f5f3dee-dcf3-46d2-89f7-3f86a49b6ad7",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Tek Rex",
+    "type": "Tek Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Tek_Rex.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "BionicRex_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Rex/BionicRex_Character_BP.BionicRex_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "da92db71-977d-4c65-bc23-9bd5630bf6cd",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Tek Stegosaurus",
+    "type": "Tek Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Tek_Stegosaurus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "BionicStego_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Stego/BionicStego_Character_BP.BionicStego_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "60258aee-219d-4efa-9676-f44d631f827a",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Terror Bird",
+    "type": "Birds",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Terror_Bird.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "TerrorBird_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/TerrorBird/TerrorBird_Character_BP.TerrorBird_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "ae60a37f-81e1-451f-b7ee-ae4e900373ff",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Therizinosaur",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Therizinosaur.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Therizino_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Therizinosaurus/Therizino_Character_BP.Therizino_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "080695d8-801c-41e5-8416-d8671d37e6c6",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Thylacoleo",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Thylacoleo.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Thylacoleo_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Thylacoleo/Thylacoleo_Character_BP.Thylacoleo_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "aea7a333-14cd-4602-b4f0-b685b3751066",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Titanoboa",
+    "type": "Reptiles",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Titanoboa.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "BoaFrill_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/BoaFrill/BoaFrill_Character_BP.BoaFrill_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "d1cebb2f-e50b-4466-bc90-50dfd9a91b15",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Titanomyrma",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Titanomyrma.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Ant_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Ant/Ant_Character_BP.Ant_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "f3b5c9a2-a602-4cfe-b156-1decd52a2e8a",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Titanomyrma",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Titanomyrma.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "FlyingAnt_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Ant/FlyingAnt_Character_BP.FlyingAnt_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "59dbfae9-ddf4-474f-bd71-d332821652d0",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Titanosaur",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Titanosaur.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Titanosaur_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/titanosaur/Titanosaur_Character_BP.Titanosaur_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "1b400939-6c01-4d8d-b45e-a882483db064",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Triceratops",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Triceratops.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Trike_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP.Trike_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "81100240-cf44-427d-9510-9a5463b083c1",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Trilobite",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Trilobite.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Trilobite_Character_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Trilobite/Trilobite_Character.Trilobite_Character'",
+    "error": null,
+    "level": 150,
+    "id": "9e69b918-fa9d-4296-a795-d00fdb46de3a",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Troodon",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Troodon.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Troodon_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Troodon/Troodon_Character_BP.Troodon_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "7a782d8e-26b7-47d8-89f7-930088d58e7b",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Turkey",
+    "type": "Event Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Turkey.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "TurkeyBase_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dodo/TurkeyBase_Character_BP.TurkeyBase_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "8f488435-41c1-4d01-a41c-3982873e30ec",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Super Turkey",
+    "type": "Event Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Super_Turkey.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Turkey_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dodo/Turkey_Character_BP.Turkey_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "8829a58e-9505-4042-ba43-21f9e0ff9de2",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Tusoteuthis",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Tusoteuthis.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Tusoteuthis_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Tusoteuthis/Tusoteuthis_Character_BP.Tusoteuthis_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "134fb614-112d-4c57-a444-28b2ed24d202",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Woolly Rhino",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Woolly_Rhino.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Rhino_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/WoollyRhino/Rhino_Character_BP.Rhino_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "5bc7c8c4-58d3-4bf5-a315-d641b6d6cefc",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Yeti",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Yeti.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Yeti_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Bigfoot/Yeti_Character_BP.Yeti_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "163bab62-a2eb-4bbf-8110-64476d1abebf",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Yutyrannus",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Yutyrannus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Yutyrannus_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Yutyrannus/Yutyrannus_Character_BP.Yutyrannus_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "201a2d1b-6725-43be-8688-3b72e4033169",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Zomdodo",
+    "type": "Event Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Zomdodo.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "ZombieDodo_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dodo/ZombieDodo_Character_BP.ZombieDodo_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "a426dff6-c6d2-4b38-9e20-af75b6278555",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "ScorchedEarth"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Alpha Fire Wyvern",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Alpha_Fire_Wyvern.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "MegaWyvern_Character_BP_Fire_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/MegaWyvern_Character_BP_Fire.MegaWyvern_Character_BP_Fire'",
+    "error": null,
+    "level": 150,
+    "id": "8cc0623f-bc38-48b4-9492-81b28a144d1d",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "ScorchedEarth"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Alpha Deathworm",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Alpha_Deathworm.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "MegaDeathworm_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Deathworm/MegaDeathworm_Character_BP.MegaDeathworm_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "d9c25142-6a16-406b-a69e-1394ef1c20ae",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "ScorchedEarth"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Dodo Wyvern",
+    "type": "Event Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Dodo_Wyvern.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "DodoWyvern_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/DodoWyvern/DodoWyvern_Character_BP.DodoWyvern_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "aed97636-7cb4-4fe7-b826-54c749e198cc",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "ScorchedEarth"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Jerboa",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Jerboa.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Jerboa_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Jerboa/Jerboa_Character_BP.Jerboa_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "a3ea5dbb-4d68-47d5-b4e7-59950da8c97a",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "ScorchedEarth"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Skeletal Jerboa",
+    "type": "Event Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Skeletal_Jerboa.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Bone_Jerboa_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Jerboa/Bone_Jerboa_Character_BP.Bone_Jerboa_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "14e2337f-9919-4b9b-9718-14a30fadf905",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "ScorchedEarth"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Jug Bug",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Jug_Bug.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Jugbug_Character_BaseBP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Jugbug/JugBug_Character_BaseBP.JugBug_Character_BaseBP'",
+    "error": null,
+    "level": 150,
+    "id": "b57394ed-dc09-40f1-b38d-6ceb4107deac",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "ScorchedEarth"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Oil Jug Bug",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Oil_Jug_Bug.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Jugbug_Oil_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Jugbug/Jugbug_Oil_Character_BP.Jugbug_Oil_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "86a79ade-4c97-43a4-9a62-429f989825e8",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "ScorchedEarth"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Water Jug Bug",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Water_Jug_Bug.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Jugbug_Water_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Jugbug/Jugbug_Water_Character_BP.Jugbug_Water_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "9166822c-670f-4bb9-9b63-e7a62969019e",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "ScorchedEarth"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Lymantria",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Lymantria.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Moth_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Moth/Moth_Character_BP.Moth_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "fa62d5b1-3cb8-4ddf-ac67-09c92f9c4aa1",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "ScorchedEarth"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Mantis",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Mantis.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Mantis_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "cbc9803b-6e6a-42c9-aa8c-0490162006b4",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "ScorchedEarth"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Morellatops",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Morellatops.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "camelsaurus_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Camelsaurus/camelsaurus_Character_BP.camelsaurus_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "22641e03-d218-4405-8b5b-03f4c1e0bf14",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "ScorchedEarth"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Rock Elemental",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Rock_Elemental.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "RockGolem_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/RockGolem/RockGolem_Character_BP.RockGolem_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "88f7af97-ef80-446b-a7dd-3e248758b99d",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "ScorchedEarth"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Rubble Golem",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Rubble_Golem.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "RubbleGolem_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/RockGolem/RubbleGolem_Character_BP.RubbleGolem_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "a3e4ed1b-b3e5-4693-b0cd-92f46bc875aa",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "ScorchedEarth"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Thorny Dragon",
+    "type": "Reptiles",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Thorny_Dragon.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "SpineyLizard_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/SpineyLizard/SpineyLizard_Character_BP.SpineyLizard_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "709eb188-5390-46ac-befd-05818c726279",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "ScorchedEarth"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Vulture",
+    "type": "Birds",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Vulture.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Vulture_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Vulture/Vulture_Character_BP.Vulture_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "29de4cf9-5463-44f7-ba7f-16f01769f275",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "ScorchedEarth"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Wyvern",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Wyvern.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Wyvern_Character_BP_Base_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Base.Wyvern_Character_BP_Base'",
+    "error": null,
+    "level": 150,
+    "id": "e770282f-9ff0-4b3a-bc20-d649593698bc",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "ScorchedEarth"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Fire Wyvern",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Fire_Wyvern.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Wyvern_Character_BP_Fire_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire'",
+    "error": null,
+    "level": 150,
+    "id": "2e3d9bf9-1528-4571-a858-50960be1fa0f",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "ScorchedEarth"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Lightning Wyvern",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Lightning_Wyvern.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Wyvern_Character_BP_Lightning_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning'",
+    "error": null,
+    "level": 150,
+    "id": "662c24c7-847b-4e08-a956-2b438399dd48",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "ScorchedEarth"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Poison Wyvern",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Poison_Wyvern.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Wyvern_Character_BP_Poison_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Poison.Wyvern_Character_BP_Poison'",
+    "error": null,
+    "level": 150,
+    "id": "27c05c9e-cfb0-472c-bb50-4968718a2617",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "ScorchedEarth"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Bone Fire Wyvern",
+    "type": "Event Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Bone_Fire_Wyvern.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Bone_MegaWyvern_Character_BP_Fire_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/Bone_MegaWyvern_Character_BP_Fire.Bone_MegaWyvern_Character_BP_Fire'",
+    "error": null,
+    "level": 150,
+    "id": "9188d056-4408-430d-9e00-a867c81126de",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "ScorchedEarth"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Dodo Wyvern",
+    "type": "Event Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Dodo_Wyvern.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "DodoWyvern_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/DodoWyvern/DodoWyvern_Character_BP.DodoWyvern_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "c13b3811-60ba-42e8-bf76-686120d695be",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "ScorchedEarth"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Zombie Fire Wyvern",
+    "type": "Event Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Zombie_Fire_Wyvern.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Wyvern_Character_BP_ZombieFire_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_ZombieFire.Wyvern_Character_BP_ZombieFire'",
+    "error": null,
+    "level": 150,
+    "id": "b76f9624-73e0-4e52-a547-499520877f07",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "ScorchedEarth"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Zombie Lightning Wyvern",
+    "type": "Event Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Zombie_Lightning_Wyvern.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Wyvern_Character_BP_ZombieLightning_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_ZombieLightning.Wyvern_Character_BP_ZombieLightning'",
+    "error": null,
+    "level": 150,
+    "id": "40728469-ff3b-4dae-a098-aa3e83582bb3",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "ScorchedEarth"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Zombie Poison Wyvern",
+    "type": "Event Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Zombie_Poison_Wyvern.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Wyvern_Character_BP_ZombiePoison_C",
+    "blueprintPath": "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_ZombiePoison.Wyvern_Character_BP_ZombiePoison'",
+    "error": null,
+    "level": 150,
+    "id": "1edb4958-fea5-4771-941d-f2c26ba53e8f",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Valguero"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Chalk Golem",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Chalk_Golem.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "ChalkGolem_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Mods/Valguero/Assets/Dinos/RockGolem/ChalkGolem/ChalkGolem_Character_BP.ChalkGolem_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "6c183f50-5532-4f18-8973-e51f95f5e79c",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Valguero"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Deinonychus",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Deinonychus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Deinonychus_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Raptor/Uberraptor/Deinonychus_Character_BP.Deinonychus_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "e3a5bde3-e989-49c3-825e-b67d28e65c31",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Valguero"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Ice Golem",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Ice_Golem.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "IceGolem_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Mods/Valguero/Assets/Dinos/RockGolem/IceGolem/IceGolem_Character_BP.IceGolem_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "e9f8845c-4d90-4f37-9b29-035f87e44812",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Alpha King Titan",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Alpha_King_Titan.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "KingKaiju_Character_BP_Alpha_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/KingKaiju/KingKaiju_Character_BP_Alpha.KingKaiju_Character_BP_Alpha'",
+    "error": null,
+    "level": 150,
+    "id": "d7663948-63c2-468b-b75c-8480ed3ddc7f",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Beta King Titan",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Beta_King_Titan.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "KingKaiju_Character_BP_Beta_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/KingKaiju/KingKaiju_Character_BP_Beta.KingKaiju_Character_BP_Beta'",
+    "error": null,
+    "level": 150,
+    "id": "e8f31f49-2fa3-4a23-9f4d-c733d0b5e153",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Corrupt Tumor",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Corrupt_Tumor.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "CorruptTumor_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/KingKaiju/CorruptTumor_Character_BP.CorruptTumor_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "34eb955f-684d-459f-bc52-20dae002e943",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Corrupted Arthropluera",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Corrupted_Arthropluera.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Arthro_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Arthropluera/Arthro_Character_BP_Corrupt.Arthro_Character_BP_Corrupt'",
+    "error": null,
+    "level": 150,
+    "id": "6e4b314a-1062-4c2b-80be-5399e646330f",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Corrupted Carnotaurus",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Corrupted_Carnotaurus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Carno_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Carno/Carno_Character_BP_Corrupt.Carno_Character_BP_Corrupt'",
+    "error": null,
+    "level": 150,
+    "id": "ada0eed4-64f2-4e78-a878-d74c072971e6",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Corrupted Chalicotherium",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Corrupted_Chalicotherium.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Chalico_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Chalicotherium/Chalico_Character_BP_Corrupt.Chalico_Character_BP_Corrupt'",
+    "error": null,
+    "level": 150,
+    "id": "0658cf2f-1f5f-486b-8e3b-da67b4956dba",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Corrupted Dilophosaur",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Corrupted_Dilophosaur.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Dilo_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Dilo/Dilo_Character_BP_Corrupt.Dilo_Character_BP_Corrupt'",
+    "error": null,
+    "level": 150,
+    "id": "d1b0fa20-4880-485b-8763-c1daf1dda1f0",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Corrupted Dimorphodon",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Corrupted_Dimorphodon.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Dimorph_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Dimorphodon/Dimorph_Character_BP_Corrupt.Dimorph_Character_BP_Corrupt'",
+    "error": null,
+    "level": 150,
+    "id": "eac1e038-6034-4492-acf5-d36ed7f464dd",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Corrupted Giganotosaurus",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Corrupted_Giganotosaurus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Gigant_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Giganotosaurus/Gigant_Character_BP_Corrupt.Gigant_Character_BP_Corrupt'",
+    "error": null,
+    "level": 150,
+    "id": "fbfc0ab2-f532-4929-8a7b-cb7bf3922438",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Corrupted Paraceratherium",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Corrupted_Paraceratherium.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Paracer_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Paraceratherium/Paracer_Character_BP_Corrupt.Paracer_Character_BP_Corrupt'",
+    "error": null,
+    "level": 150,
+    "id": "436af46b-8189-4daf-9e4d-06709918e25f",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Corrupted Pteranodon",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Corrupted_Pteranodon.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Ptero_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Ptero/Ptero_Character_BP_Corrupt.Ptero_Character_BP_Corrupt'",
+    "error": null,
+    "level": 150,
+    "id": "9c08f3ea-53c7-4fa7-98bd-192d736d0df0",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Corrupted Raptor",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Corrupted_Raptor.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Raptor_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Raptor/Raptor_Character_BP_Corrupt.Raptor_Character_BP_Corrupt'",
+    "error": null,
+    "level": 150,
+    "id": "572b90cc-cb5b-415a-b601-d2c5dcf97fea",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Corrupted Reaper King",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Corrupted_Reaper_King.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Xenomorph_Character_BP_Male_Tamed_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Nameless/Xenomorph_Character_BP_Male_Tamed_Corrupt.Xenomorph_Character_BP_Male_Tamed_Corrupt'",
+    "error": null,
+    "level": 150,
+    "id": "782ad154-b6e0-40f3-b7b4-a5db75b9d41c",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Corrupted Rex",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Corrupted_Rex.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Rex_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Rex/Rex_Character_BP_Corrupt.Rex_Character_BP_Corrupt'",
+    "error": null,
+    "level": 150,
+    "id": "5a5adda5-6204-4e25-8673-43d98b23c62e",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Corrupted Rock Drake",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Corrupted_Rock_Drake.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "RockDrake_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/RockDrake/RockDrake_Character_BP_Corrupt.RockDrake_Character_BP_Corrupt'",
+    "error": null,
+    "level": 150,
+    "id": "0739f750-98ae-4fd1-a1ac-58d9edc0df38",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Corrupted Spino",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Corrupted_Spino.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Spino_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Spino/Spino_Character_BP_Corrupt.Spino_Character_BP_Corrupt'",
+    "error": null,
+    "level": 150,
+    "id": "b3bb3f25-a5f3-44e0-89ea-30e56c59b0a6",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Corrupted Stegosaurus",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Corrupted_Stegosaurus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Stego_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Stego/Stego_Character_BP_Corrupt.Stego_Character_BP_Corrupt'",
+    "error": null,
+    "level": 150,
+    "id": "97352aea-f9de-44b6-8010-fbc19a67a688",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Corrupted Triceratops",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Corrupted_Triceratops.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Trike_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Trike/Trike_Character_BP_Corrupt.Trike_Character_BP_Corrupt'",
+    "error": null,
+    "level": 150,
+    "id": "f0b87608-0660-401a-856b-b09ddf0dcdc5",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Corrupted Wyvern",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Corrupted_Wyvern.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Wyvern_Character_BP_Fire_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Wyvern/Wyvern_Character_BP_Fire_Corrupt.Wyvern_Character_BP_Fire_Corrupt'",
+    "error": null,
+    "level": 150,
+    "id": "8476946d-64c0-4105-8813-d80f39f48cb3",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Defense Unit",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Defense_Unit.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Defender_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Tank/Defender_Character_BP.Defender_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "b78a2a91-dcc4-4230-84aa-24ee0f59dbed",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Desert Titan",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Desert_Titan.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "DesertKaiju_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/DesertKaiju/DesertKaiju_Character_BP.DesertKaiju_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "fd28d923-5d89-465c-91cb-a21c90135d3f",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Desert Titan Flock",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Desert_Titan_Flock.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "DesertKaiju_FirstFlockChar_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/DesertKaiju/DesertKaiju_FirstFlockChar_BP.DesertKaiju_FirstFlockChar_BP'",
+    "error": null,
+    "level": 150,
+    "id": "138460f3-d388-4382-bf64-29d42014244e",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Enforcer",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Enforcer.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Enforcer_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Enforcer/Enforcer_Character_BP.Enforcer_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "afc29e40-a5d1-44e5-ba48-07368ade43d4",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Enraged Corrupted Rex",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Enraged_Corrupted_Rex.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "MegaRex_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Rex/MegaRex_Character_BP_Corrupt.MegaRex_Character_BP_Corrupt'",
+    "error": null,
+    "level": 150,
+    "id": "2545d299-bb55-45f4-9dcb-df962940e409",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Enraged Triceratops",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Enraged_Triceratops.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "MegaTrike_Character_BP_Corrupt_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Corrupt/Trike/MegaTrike_Character_BP_Corrupt.MegaTrike_Character_BP_Corrupt'",
+    "error": null,
+    "level": 150,
+    "id": "733e394f-0421-45c2-9a00-58c8bba48f12",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Forest Titan",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Forest_Titan.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "ForestKaiju_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/ForestKaiju/ForestKaiju_Character_BP.ForestKaiju_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "4e6e85cb-286c-479d-a4dc-2925bd957c57",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Forest Wyvern",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Forest_Wyvern.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Wyvern_Character_BP_Fire_Minion_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/ForestKaiju/Minion/Wyvern_Character_BP_Fire_Minion.Wyvern_Character_BP_Fire_Minion'",
+    "error": null,
+    "level": 150,
+    "id": "c89d01eb-6d71-4eeb-906d-fc4d638d329b",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Gacha",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Gacha.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Gacha_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Gacha/Gacha_Character_BP.Gacha_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "08cff866-22c1-4fd3-b903-f93b4b0c46e6",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "GachaClaus",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-GachaClaus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Gacha_Claus_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Gacha/Gacha_Claus_Character_BP.Gacha_Claus_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "5a477af1-5ac0-45e3-97af-06c541744941",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Gamma King Titan",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Gamma_King_Titan.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "KingKaiju_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/KingKaiju/KingKaiju_Character_BP.KingKaiju_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "1c606b52-ec2f-4c92-9e2f-98e354e31f3b",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Gasbags",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Gasbags.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "GasBags_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/GasBag/GasBags_Character_BP.GasBags_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "d4909052-2571-4978-af69-2c041e9aaccb",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Ice Titan",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Ice_Titan.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "IceKaiju_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/IceKaiju/IceKaiju_Character_BP.IceKaiju_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "b42d1a19-c57b-45f5-afb2-1d06ffd41e07",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Managarmr",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Managarmr.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "IceJumper_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/IceJumper/IceJumper_Character_BP.IceJumper_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "83383dc0-d573-41b6-b374-104a221d311a",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Mega Mek",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Mega_Mek.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "MegaMek_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Mek/MegaMek_Character_BP.MegaMek_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "bf9992b8-2f01-4789-b73d-c4d297c62754",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Mek",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Mek.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Mek_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Mek/Mek_Character_BP.Mek_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "cf240f48-0d37-4b3f-9188-9f0fc3bc1f6e",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Scout",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Scout.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Scout_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Scout/Scout_Character_BP.Scout_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "5e20f3a0-dac9-42e4-be95-85cef50100a8",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Snow Owl",
+    "type": "Birds",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Snow_Owl.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Owl_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Owl/Owl_Character_BP.Owl_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "c3932dc4-b598-41eb-96c6-1592c8dab076",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Extinction"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Velonasaur",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Velonasaur.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Spindles_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Extinction/Dinos/Spindles/Spindles_Character_BP.Spindles_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "3ae4f614-f1fb-49c0-8d3c-9096d83bf632",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Achatina",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Achatina.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Achatina_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP_Aberrant.Achatina_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "0c3b8594-553f-4499-ab0c-6841461f3e5f",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Anglerfish",
+    "type": "Fish",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Anglerfish.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Angler_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP_Aberrant.Angler_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "097b02e6-1c38-4a42-9f6e-c235e76cc56f",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Ankylosaurus",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Ankylosaurus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Ankylo_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP_Aberrant.Ankylo_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "40c1a9f9-f949-4f65-9f32-f3c8ee02fcfc",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Araneo",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Araneo.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "SpiderS_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Spider-Small/SpiderS_Character_BP_Aberrant.SpiderS_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "4f6dff40-8b76-4598-998f-746a116cb00d",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Arthropluera",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Arthropluera.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Arthro_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Arthropluera/Arthro_Character_BP_Aberrant.Arthro_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "647e96e1-097f-4c99-9d8e-5388d5c806bd",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Baryonyx",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Baryonyx.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Baryonyx_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Baryonyx/Baryonyx_Character_BP_Aberrant.Baryonyx_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "d62240b8-9b8f-4acf-89bd-2f249cb7264a",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Beelzebufo",
+    "type": "Reptiles",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Beelzebufo.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Toad_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Toad/Toad_Character_BP_Aberrant.Toad_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "c5174300-400c-4c10-b286-4270c6491915",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Carbonemys",
+    "type": "Reptiles",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Carbonemys.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Turtle_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Turtle/Turtle_Character_BP_Aberrant.Turtle_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "055e30dc-e4f6-47c2-8351-25b87497f1ff",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Carnotaurus",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Carnotaurus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Carno_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Carno/Carno_Character_BP_Aberrant.Carno_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "f0bfb7a7-d62d-4c04-b537-02979461e2d1",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Cnidaria",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Cnidaria.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Cnidaria_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Cnidaria/Cnidaria_Character_BP_Aberrant.Cnidaria_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "05ce7d83-091a-4f1f-b8b8-683c4f0a56c8",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Coelacanth",
+    "type": "Fish",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Coelacanth.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Coel_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Coelacanth/Coel_Character_BP_Aberrant.Coel_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "a9d34fdd-2536-46d5-8147-f710ffc6a8d1",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Dimetrodon",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Dimetrodon.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Dimetro_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dimetrodon/Dimetro_Character_BP_Aberrant.Dimetro_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "0729312a-b60e-4928-aeac-780901921b04",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Dimorphodon",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Dimorphodon.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Dimorph_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dimorphodon/Dimorph_Character_BP_Aberrant.Dimorph_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "37e340c6-fcc3-4b0e-862c-082b55e2681c",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Diplocaulus",
+    "type": "Amphibians",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Diplocaulus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Diplocaulus_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Diplocaulus/Diplocaulus_Character_BP_Aberrant.Diplocaulus_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "70f2d43a-ebdd-4613-8305-73f2edcd2ee4",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Diplodocus",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Diplodocus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Diplodocus_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Diplodocus/Diplodocus_Character_BP_Aberrant.Diplodocus_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "984a7b40-cd09-469f-8c45-ccffe0de9a98",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Dire Bear",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Dire_Bear.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Direbear_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Direbear/Direbear_Character_BP_Aberrant.Direbear_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "50d936b9-8566-4a07-b76e-30853b90671e",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Dodo",
+    "type": "Birds",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Dodo.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Dodo_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP_Aberrant.Dodo_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "509292dd-bec4-41ca-b487-ddfd8248e647",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Doedicurus",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Doedicurus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Doed_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP_Aberrant.Doed_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "66ac693d-d988-4508-a869-277fc977e152",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Dung Beetle",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Dung_Beetle.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "DungBeetle_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP_Aberrant.DungBeetle_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "34ff59f2-75b5-4129-8a57-a45d4038e883",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Electrophorus",
+    "type": "Fish",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Electrophorus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Eel_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Eel/Eel_Character_BP_Aberrant.Eel_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "560b6ca5-5150-4f2f-bab5-6cd82fbae9ec",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Equus",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Equus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Equus_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP_Aberrant.Equus_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "97f735c7-23f6-4d1d-95d6-f01ad81d9f75",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Gigantopithecus",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Gigantopithecus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Bigfoot_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Bigfoot/Bigfoot_Character_BP_Aberrant.Bigfoot_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "4b2c1bd3-1071-4f94-97bf-62693d41da3e",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Iguanodon",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Iguanodon.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Iguanodon_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Iguanodon/Iguanodon_Character_BP_Aberrant.Iguanodon_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "7f713d61-6fa1-478b-b260-48d5e467e068",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Lystrosaurus",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Lystrosaurus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Lystro_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Lystrosaurus/Lystro_Character_BP_Aberrant.Lystro_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "97c573bc-a0e4-49af-a3f7-dcd05dec136c",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Manta",
+    "type": "Fish",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Manta.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Manta_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Manta/Manta_Character_BP_Aberrant.Manta_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "29ad91fe-fb8a-45c9-81a5-22640a8abcef",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Megalania",
+    "type": "Reptiles",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Megalania.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Megalania_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Megalania/Megalania_Character_BP_Aberrant.Megalania_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "1d9dcb70-f724-4e18-bebd-a0170cce08b0",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Megalosaurus",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Megalosaurus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Megalosaurus_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Megalosaurus/Megalosaurus_Character_BP_Aberrant.Megalosaurus_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "1a3febff-be01-46fa-b4d2-8322273fa77d",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Meganeura",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Meganeura.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Dragonfly_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dragonfly/Dragonfly_Character_BP_Aberrant.Dragonfly_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "015dfb73-ec76-48eb-8f15-52885fb21628",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Moschops",
+    "type": "Synapsids",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Moschops.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Moschops_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Moschops/Moschops_Character_BP_Aberrant.Moschops_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "df9abed9-a40e-455d-aee5-91ac27f14bee",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Otter",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Otter.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Otter_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Otter/Otter_Character_BP_Aberrant.Otter_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "dcecb22b-dbda-4570-9c78-397dbb660ace",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Ovis",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Ovis.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Sheep_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP_Aberrant.Sheep_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "2d984aa9-ca40-4f78-a8e0-077b722b07d7",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Paraceratherium",
+    "type": "Mammals",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Paraceratherium.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Paracer_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Paraceratherium/Paracer_Character_BP_Aberrant.Paracer_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "79547ce2-6328-4fa0-b07d-e065a7d6b9fa",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Parasaur",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Parasaur.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Para_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Para/Para_Character_BP_Aberrant.Para_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "072f7ac4-ef37-41fe-b6be-dfe8b2f1d219",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Piranha",
+    "type": "Fish",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Piranha.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Piranha_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Piranha/Piranha_Character_BP_Aberrant.Piranha_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "6589787e-73dc-4aa5-8d72-ac2b25af039e",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Pulmonoscorpius",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Pulmonoscorpius.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Scorpion_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Scorpion/Scorpion_Character_BP_Aberrant.Scorpion_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "c7fd2cbf-754b-4a20-b6f7-92bcb7943d07",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Purlovia",
+    "type": "Synapsids",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Purlovia.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Purlovia_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Purlovia/Purlovia_Character_BP_Aberrant.Purlovia_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "9b890914-cfbe-496e-8d91-4f2055841051",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Raptor",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Raptor.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Raptor_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP_Aberrant.Raptor_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "6d179d68-78d2-45e2-babc-e0d0e03b3784",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Sabertooth Salmon",
+    "type": "Fish",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Sabertooth_Salmon.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Salmon_Character_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Salmon/Salmon_Character_Aberrant.Salmon_Character_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "aca3f2e9-11af-44a9-a876-099ced47f574",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Sarco",
+    "type": "Reptiles",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Sarco.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Sarco_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Sarco/Sarco_Character_BP_Aberrant.Sarco_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "607e2a72-c029-4b49-b1c7-5eab5ab92ca5",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Spino",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Spino.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Spino_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP_Aberrant.Spino_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "78b60579-0c01-4231-a969-31ac0c1c9082",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Stegosaurus",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Stegosaurus.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Stego_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP_Aberrant.Stego_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "8926ed60-d485-43b9-bbe6-5d25a8b8c8cb",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Titanoboa",
+    "type": "Reptiles",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Titanoboa.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "BoaFrill_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/BoaFrill/BoaFrill_Character_BP_Aberrant.BoaFrill_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "0df5aab5-0562-4a8c-86d0-801df21dedcc",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Triceratops",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Triceratops.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Trike_Character_BP_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP_Aberrant.Trike_Character_BP_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "41325eb8-8854-47a0-9bb7-61d63e0ba1c3",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Aberrant Trilobite",
+    "type": "Invertebrates",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Aberrant_Trilobite.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Trilobite_Character_Aberrant_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Trilobite/Trilobite_Character_Aberrant.Trilobite_Character_Aberrant'",
+    "error": null,
+    "level": 150,
+    "id": "7df3685e-baf4-43b8-aeec-4b0d7cd5dec1",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Alpha Basilisk",
+    "type": "Alpha Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Alpha_Basilisk.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "MegaBasilisk_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/Basilisk/MegaBasilisk_Character_BP.MegaBasilisk_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "431ad8d6-1cef-4531-a88e-a0b7149ab643",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Alpha Karkinos",
+    "type": "Alpha Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Alpha_Karkinos.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "MegaCrab_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/Crab/MegaCrab_Character_BP.MegaCrab_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "e2bba960-6e5e-4ddc-862e-f24a35044168",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Alpha Surface Reaper King",
+    "type": "Alpha Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Alpha_Surface_Reaper_King.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "MegaXenomorph_Character_BP_Male_Surface_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/Nameless/MegaXenomorph_Character_BP_Male_Surface.MegaXenomorph_Character_BP_Male_Surface'",
+    "error": null,
+    "level": 150,
+    "id": "7b722d92-9eeb-48be-8a43-d2ce1584dac2",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Basilisk",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Basilisk.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Basilisk_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/Basilisk/Basilisk_Character_BP.Basilisk_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "1e8672a9-bc43-4426-afbc-f4b88c18c2fc",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Bulbdog",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Bulbdog.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "LanternPug_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/LanternPug/LanternPug_Character_BP.LanternPug_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "a0ce2d31-7696-493d-9d6c-5bef1cef8fa8",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Featherlight",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Featherlight.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "LanternBird_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/LanternBird/LanternBird_Character_BP.LanternBird_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "08784271-511f-4df6-880a-c856a59aca65",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Glowbug",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Glowbug.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Lightbug_Character_BaseBP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/Lightbug/Lightbug_Character_BaseBP.Lightbug_Character_BaseBP'",
+    "error": null,
+    "level": 150,
+    "id": "e58987c0-0ab8-4928-9e7a-cd5d78953fe1",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Glowtail",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Glowtail.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "LanternLizard_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/LanternLizard/LanternLizard_Character_BP.LanternLizard_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "2cc0fd50-8dff-4c27-a1e7-9bce41e70cab",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Karkinos",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Karkinos.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Crab_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/Crab/Crab_Character_BP.Crab_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "88c8afc9-e8eb-411e-b075-474ac6882141",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Lamprey",
+    "type": "Fish",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Lamprey.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Lamprey_Character_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/Lamprey/Lamprey_Character.Lamprey_Character'",
+    "error": null,
+    "level": 150,
+    "id": "b547577e-c14d-4dfd-9cf0-2dcc62c58703",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Nameless",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Nameless.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "ChupaCabra_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/ChupaCabra/ChupaCabra_Character_BP.ChupaCabra_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "6736fabd-4fd2-4db4-93b6-63027fca1fbd",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Nameless Queen",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Nameless_Queen.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Xenomorph_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP.Xenomorph_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "cc934e73-e9cb-4f2e-bc8e-4c04fd8a19da",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Ravager",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Ravager.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "CaveWolf_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/CaveWolf/CaveWolf_Character_BP.CaveWolf_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "1b86a1ed-ac9a-483e-86c7-0e886467c004",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Reaper King",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Reaper_King.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Xenomorph_Character_BP_Male_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Male.Xenomorph_Character_BP_Male'",
+    "error": null,
+    "level": 150,
+    "id": "16703b8a-919b-4cf1-983c-657038dedd74",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Reaper King (Tamed)",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Reaper_King_(Tamed).png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Xenomorph_Character_BP_Male_Tamed_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Male_Tamed.Xenomorph_Character_BP_Male_Tamed'",
+    "error": null,
+    "level": 150,
+    "id": "360323cb-f21b-47bc-919e-c771adadfc1a",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Reaper Queen",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Reaper_Queen.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Xenomorph_Character_BP_Female_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Female.Xenomorph_Character_BP_Female'",
+    "error": null,
+    "level": 150,
+    "id": "bdd85e90-6db4-434e-b7df-ba7e9dafa6d5",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Rock Drake",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Rock_Drake.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "RockDrake_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "3ba92be1-c613-4e76-9ee8-668a871b21e1",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Rockwell",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Rockwell.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Rockwell_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Boss/Rockwell/Rockwell_Character_BP.Rockwell_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "0d2d4448-1c20-4283-9459-7bd09e0ed095",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Rockwell (Alpha)",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Rockwell_(Alpha).png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Rockwell_Character_BP_Hard_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Boss/Rockwell/Rockwell_Character_BP_Hard.Rockwell_Character_BP_Hard'",
+    "error": null,
+    "level": 150,
+    "id": "4f83d207-9709-4b64-8f0c-37b7c4c4231f",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Rockwell (Beta)",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Rockwell_(Beta).png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Rockwell_Character_BP_Medium_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Boss/Rockwell/Rockwell_Character_BP_Medium.Rockwell_Character_BP_Medium'",
+    "error": null,
+    "level": 150,
+    "id": "8d67cb93-98b8-467c-8c27-eafbc26f9640",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Rockwell (Gamma)",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Rockwell_(Gamma).png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Rockwell_Character_BP_Easy_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Boss/Rockwell/Rockwell_Character_BP_Easy.Rockwell_Character_BP_Easy'",
+    "error": null,
+    "level": 150,
+    "id": "8495139b-3e41-4524-9b81-27db44607b0a",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Rockwell Tentacle",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Rockwell_Tentacle.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "RockwellTentacle_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Boss/RockwellTentacle/RockwellTentacle_Character_BP.RockwellTentacle_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "560f4a2e-2475-48f0-a3eb-4ad874362699",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Rockwell Tentacle (Alpha)",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Rockwell_Tentacle_(Alpha).png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "RockwellTentacle_Character_BP_Alpha_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Boss/RockwellTentacle/RockwellTentacle_Character_BP_Alpha.RockwellTentacle_Character_BP_Alpha'",
+    "error": null,
+    "level": 150,
+    "id": "5beecbc6-8281-407e-ab2c-c3f5c61b0fbe",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Rockwell Tentacle (Beta)",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Rockwell_Tentacle_(Beta).png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "RockwellTentacle_Character_BP_Beta_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Boss/RockwellTentacle/RockwellTentacle_Character_BP_Beta.RockwellTentacle_Character_BP_Beta'",
+    "error": null,
+    "level": 150,
+    "id": "abf814f7-64ef-4ed8-9853-7902533408c3",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Rockwell Tentacle (Gamma)",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Rockwell_Tentacle_(Gamma).png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "RockwellTentacle_Character_BP_Gamma_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Boss/RockwellTentacle/RockwellTentacle_Character_BP_Gamma.RockwellTentacle_Character_BP_Gamma'",
+    "error": null,
+    "level": 150,
+    "id": "e0f14d7f-c3a9-4248-80e5-d1f6a05c7abf",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Roll Rat",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Roll_Rat.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "MoleRat_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/MoleRat/MoleRat_Character_BP.MoleRat_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "4d94f86f-fda7-440a-9481-33d0b74c4218",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Seeker",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Seeker.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Pteroteuthis_Char_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/Pteroteuthis/Pteroteuthis_Char_BP.Pteroteuthis_Char_BP'",
+    "error": null,
+    "level": 150,
+    "id": "7c604af6-4219-42b5-84de-b9519842fb3c",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Aberration"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Shinehorn",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Shinehorn.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "LanternGoat_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/Aberration/Dinos/LanternGoat/LanternGoat_Character_BP.LanternGoat_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "0bc25136-18f0-42e5-832f-9a0b75fbb560",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Ragnarok"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Griffin",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Griffin.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Griffin_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "f8c17da2-d5d4-47bb-a788-214ad1f6e62f",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "Ragnarok"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Ice Wyvern",
+    "type": "Fantasy Creatures",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Ice_Wyvern.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 500,
+    "amount": 1,
+    "blueprint": "Ragnarok_Wyvern_Override_Ice_C",
+    "blueprintPath": "Blueprint'/Game/Mods/Ragnarok/Custom_Assets/Dinos/Wyvern/Ice_Wyvern/Ragnarok_Wyvern_Override_Ice.Ragnarok_Wyvern_Override_Ice'",
+    "error": null,
+    "level": 150,
+    "id": "e384a252-5154-4462-be2f-c699096976b1",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Dodo",
+    "type": "Birds",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Dodo.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 10,
+    "amount": 1,
+    "blueprint": "Dodo_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP.Dodo_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "9d6146fa-8a4f-43e7-b595-9a4bf015b82d",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  },
+  {
+    "maps": [
+      "General"
+    ],
+    "lootType": "Dinosaur",
+    "name": "Rex",
+    "type": "Dinosaurs",
+    "itemId": null,
+    "image": "https://arkfury.com/images/120px-Rex.png",
+    "stackSize": 1,
+    "isActive": false,
+    "price": 200,
+    "amount": 1,
+    "blueprint": "Rex_Character_BP_C",
+    "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP'",
+    "error": null,
+    "level": 150,
+    "id": "d75cd622-55a4-427f-81bb-0cf11423f18c",
+    "createDate": "2020-03-14T00:00:00",
+    "updateDate": "2020-03-14T00:00:00",
+    "createdBy": "SYSTEM",
+    "updatedby": "SYSTEM"
+
+
+
+  }
+]

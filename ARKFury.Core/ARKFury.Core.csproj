@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <AssemblyName>ArkFury.Core</AssemblyName>
+    <RootNamespace>ArkFury.Core</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="CoreRCON" Version="4.5.1" />
+    <PackageReference Include="PDFSharp.Standard" Version="1.51.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ArkFury.Common\ArkFury.Common.csproj" />
+    <ProjectReference Include="..\ArkFury.Entities\ArkFury.Entities.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="NewFolder\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,1441 @@
+[
+  {
+    "LootType": "Lootbox",
+    "Price": 5000,
+    "Name": "Bronze Lootbox",
+    "StackSize": 1,
+    "IsActive": true,
+    "Amount": 1,
+    "Items": [
+      {
+        "lootType": "Item",
+        "name": "Fabricated Sniper Rifle",
+        "type": "Weapons",
+
+        "itemId": "436",
+        "image": "https://arkfury.com/images/120px-Fabricated_Sniper_Rifle.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 3,
+        "blueprint": "PrimalItem_WeaponMachinedSniper_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedSniper.PrimalItem_WeaponMachinedSniper'",
+        "error": null,
+        "id": "ad200cf7-8d84-4365-9802-ad682b2a2eec",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 75,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Item",
+        "name": "Polymer",
+
+        "error": null,
+        "type": "Resources",
+        "stackSize": 250,
+        "itemId": "166",
+        "image": "https://arkfury.com/images/120px-Polymer.png",
+        "blueprint": "PrimalItemResource_Polymer_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer.PrimalItemResource_Polymer'",
+        "price": 0,
+        "amount": 2,
+        "id": "442bedc8-5bd8-11ea-bc55-0242ac130003",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 80,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Item",
+        "name": "Raw Mutton",
+        "type": "Consumables",
+
+        "itemId": "-",
+        "image": "https://arkfury.com/images/120px-Raw_Mutton.png",
+        "stackSize": 50,
+        "isActive": true,
+        "price": 0,
+        "amount": 1,
+        "blueprint": "PrimalItemConsumable_RawMutton_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMutton.PrimalItemConsumable_RawMutton'",
+        "error": null,
+        "id": "df46a22b-d463-4de4-b26d-6538959666a1",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 95,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Item",
+        "name": "Raw Mutton",
+        "type": "Consumables",
+
+        "itemId": "-",
+        "image": "https://arkfury.com/images/120px-Raw_Mutton.png",
+        "stackSize": 250,
+        "isActive": true,
+        "price": 0,
+        "amount": 4,
+        "blueprint": "PrimalItemConsumable_RawMutton_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMutton.PrimalItemConsumable_RawMutton'",
+        "error": null,
+        "id": "df46a22b-d463-4de4-b26d-6538959666a1",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 10,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Item",
+        "name": "Flak Chestpiece",
+        "type": "Armor",
+
+        "itemId": "223",
+        "image": "https://arkfury.com/images/120px-Flak_Chestpiece.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 100,
+        "amount": 3,
+        "blueprint": "PrimalItemArmor_MetalShirt_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalShirt.PrimalItemArmor_MetalShirt'",
+        "error": null,
+        "id": "72be5d66-8ce7-4366-8eeb-747c518e484f",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 100,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Item",
+        "name": "Flak Boots",
+        "type": "Armor",
+
+        "itemId": "225",
+        "image": "https://arkfury.com/images/120px-Flak_Boots.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 100,
+        "amount": 3,
+        "blueprint": "PrimalItemArmor_MetalBoots_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalBoots.PrimalItemArmor_MetalBoots'",
+        "error": null,
+        "id": "76c99e07-2626-4a64-8873-c6d54aa0384a",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 100,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Item",
+        "name": "Flak Helmet",
+        "type": "Armor",
+
+        "itemId": "224",
+        "image": "https://arkfury.com/images/120px-Flak_Helmet.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 100,
+        "amount": 3,
+        "blueprint": "PrimalItemArmor_MetalHelmet_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalHelmet.PrimalItemArmor_MetalHelmet'",
+        "error": null,
+        "id": "a018f16b-7664-4b35-ad8b-56598f8727d8",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 100,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Item",
+        "name": "Flak Leggings",
+        "type": "Armor",
+
+        "itemId": "222",
+        "image": "https://arkfury.com/images/120px-Flak_Leggings.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 100,
+        "amount": 3,
+        "blueprint": "PrimalItemArmor_MetalPants_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalPants.PrimalItemArmor_MetalPants'",
+        "error": null,
+        "id": "39fb01e7-6dff-496b-b9cd-722f5252a129",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 100,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Item",
+        "name": "Flak Gauntlets",
+        "type": "Armor",
+
+        "itemId": "226",
+        "image": "https://arkfury.com/images/120px-Flak_Gauntlets.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 100,
+        "amount": 3,
+        "blueprint": "PrimalItemArmor_MetalGloves_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalGloves.PrimalItemArmor_MetalGloves'",
+        "error": null,
+        "id": "397c34f5-2968-4f53-954c-e69b9bf022a9",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 100,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      }
+    ],
+    "Dinosaurs": [
+      {
+        "lootType": "Dinosaur",
+        "name": "Achatina",
+        "type": "Invertebrates",
+        "itemId": null,
+        "image": "https://arkfury.com/images/120px-Achatina.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 3,
+        "blueprint": "Achatina_Character_BP_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP'",
+        "error": null,
+        "level": 150,
+        "id": "d3fd89bc-838d-4944-9f6b-07a6a7d13a13",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 50,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Dinosaur",
+        "name": "Dung Beetle",
+        "type": "Invertebrates",
+        "itemId": null,
+        "image": "https://arkfury.com/images/120px-Dung_Beetle.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 3,
+        "blueprint": "DungBeetle_Character_BP_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP.DungBeetle_Character_BP'",
+        "error": null,
+        "level": 150,
+        "id": "eb8c2131-b48a-4ae4-b48e-c8a91a259766",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 50,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Dinosaur",
+        "name": "Aberrant Dimetrodon",
+        "type": "Dinosaurs",
+        "itemId": null,
+        "image": "https://arkfury.com/images/120px-Aberrant_Dimetrodon.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 3,
+        "blueprint": "Dimetro_Character_BP_Aberrant_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dimetrodon/Dimetro_Character_BP_Aberrant.Dimetro_Character_BP_Aberrant'",
+        "error": null,
+        "level": 150,
+        "id": "0729312a-b60e-4928-aeac-780901921b04",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 50,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Dinosaur",
+        "name": "Rex",
+        "type": "Dinosaurs",
+        "itemId": null,
+        "image": "https://arkfury.com/images/120px-Rex.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 200,
+        "amount": 1,
+        "blueprint": "Rex_Character_BP_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP'",
+        "error": null,
+        "level": 150,
+        "id": "d75cd622-55a4-427f-81bb-0cf11423f18c",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 75,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Dinosaur",
+        "name": "Argentavis",
+        "type": "Birds",
+        "itemId": null,
+        "image": "https://arkfury.com/images/120px-Argentavis.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 1,
+        "blueprint": "Argent_Character_BP_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP'",
+        "error": null,
+        "level": 150,
+        "id": "6774525a-9340-43fc-b8e2-c919e025a41f",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 75,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      }
+    ],
+    "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ],
+    "Vip": {
+      "Months": 1,
+      "Randomness": 10
+    },
+    "Point": {
+      "Amount": 100,
+      "Randomness": 20
+    }
+  },
+
+  {
+    "LootType": "Lootbox",
+    "Price": 15000,
+    "Name": "Silver Lootbox",
+    "StackSize": 1,
+    "IsActive": true,
+    "Amount": 1,
+    "Items": [
+      {
+        "lootType": "Item",
+        "name": "Fabricated Sniper Rifle",
+        "type": "Weapons",
+        "itemId": "436",
+        "image": "https://arkfury.com/images/120px-Fabricated_Sniper_Rifle.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 3,
+        "blueprint": "PrimalItem_WeaponMachinedSniper_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedSniper.PrimalItem_WeaponMachinedSniper'",
+        "error": null,
+        "id": "ad200cf7-8d84-4365-9802-ad682b2a2eec",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 100,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Item",
+        "name": "Fabricated Sniper Rifle",
+        "type": "Weapons",
+        "itemId": "436",
+        "image": "https://arkfury.com/images/120px-Fabricated_Sniper_Rifle.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 3,
+        "blueprint": "PrimalItem_WeaponMachinedSniper_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedSniper.PrimalItem_WeaponMachinedSniper'",
+        "error": null,
+        "id": "ad200cf7-8d84-4365-9802-ad682b2a2eec",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 50,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Item",
+        "name": "Polymer",
+
+        "error": null,
+        "type": "Resources",
+        "stackSize": 250,
+        "itemId": "166",
+        "image": "https://arkfury.com/images/120px-Polymer.png",
+        "blueprint": "PrimalItemResource_Polymer_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer.PrimalItemResource_Polymer'",
+        "price": 0,
+        "amount": 4,
+        "id": "442bedc8-5bd8-11ea-bc55-0242ac130003",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 90,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Item",
+        "name": "Raw Mutton",
+        "type": "Consumables",
+
+        "itemId": "-",
+        "image": "https://arkfury.com/images/120px-Raw_Mutton.png",
+        "stackSize": 250,
+        "isActive": true,
+        "price": 0,
+        "amount": 5,
+        "blueprint": "PrimalItemConsumable_RawMutton_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMutton.PrimalItemConsumable_RawMutton'",
+        "error": null,
+        "id": "df46a22b-d463-4de4-b26d-6538959666a1",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 95,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Item",
+        "name": "Raw Mutton",
+        "type": "Consumables",
+
+        "itemId": "-",
+        "image": "https://arkfury.com/images/120px-Raw_Mutton.png",
+        "stackSize": 250,
+        "isActive": true,
+        "price": 0,
+        "amount": 6,
+        "blueprint": "PrimalItemConsumable_RawMutton_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMutton.PrimalItemConsumable_RawMutton'",
+        "error": null,
+        "id": "df46a22b-d463-4de4-b26d-6538959666a1",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 50,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Item",
+        "name": "Flak Chestpiece",
+        "type": "Armor",
+        "itemId": "223",
+        "image": "https://arkfury.com/images/120px-Flak_Chestpiece.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 100,
+        "amount": 3,
+        "blueprint": "PrimalItemArmor_MetalShirt_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalShirt.PrimalItemArmor_MetalShirt'",
+        "error": null,
+        "id": "72be5d66-8ce7-4366-8eeb-747c518e484f",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 100,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Item",
+        "name": "Flak Boots",
+        "type": "Armor",
+        "itemId": "225",
+        "image": "https://arkfury.com/images/120px-Flak_Boots.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 100,
+        "amount": 3,
+        "blueprint": "PrimalItemArmor_MetalBoots_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalBoots.PrimalItemArmor_MetalBoots'",
+        "error": null,
+        "id": "76c99e07-2626-4a64-8873-c6d54aa0384a",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 100,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Item",
+        "name": "Flak Helmet",
+        "type": "Armor",
+        "itemId": "224",
+        "image": "https://arkfury.com/images/120px-Flak_Helmet.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 100,
+        "amount": 3,
+        "blueprint": "PrimalItemArmor_MetalHelmet_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalHelmet.PrimalItemArmor_MetalHelmet'",
+        "error": null,
+        "id": "a018f16b-7664-4b35-ad8b-56598f8727d8",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 100,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Item",
+        "name": "Flak Leggings",
+        "type": "Armor",
+        "itemId": "222",
+        "image": "https://arkfury.com/images/120px-Flak_Leggings.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 100,
+        "amount": 3,
+        "blueprint": "PrimalItemArmor_MetalPants_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalPants.PrimalItemArmor_MetalPants'",
+        "error": null,
+        "id": "39fb01e7-6dff-496b-b9cd-722f5252a129",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 100,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Item",
+        "name": "Flak Gauntlets",
+        "type": "Armor",
+        "itemId": "226",
+        "image": "https://arkfury.com/images/120px-Flak_Gauntlets.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 100,
+        "amount": 3,
+        "blueprint": "PrimalItemArmor_MetalGloves_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalGloves.PrimalItemArmor_MetalGloves'",
+        "error": null,
+        "id": "397c34f5-2968-4f53-954c-e69b9bf022a9",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 100,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      }
+    ],
+    "Dinosaurs": [
+      {
+        "lootType": "Dinosaur",
+        "name": "Achatina",
+        "type": "Invertebrates",
+        "itemId": null,
+        "image": "https://arkfury.com/images/120px-Achatina.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 3,
+        "blueprint": "Achatina_Character_BP_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP'",
+        "error": null,
+        "level": 150,
+        "id": "d3fd89bc-838d-4944-9f6b-07a6a7d13a13",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 90,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Dinosaur",
+        "name": "Dung Beetle",
+        "type": "Invertebrates",
+        "itemId": null,
+        "image": "https://arkfury.com/images/120px-Dung_Beetle.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 3,
+        "blueprint": "DungBeetle_Character_BP_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP.DungBeetle_Character_BP'",
+        "error": null,
+        "level": 150,
+        "id": "eb8c2131-b48a-4ae4-b48e-c8a91a259766",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 90,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Dinosaur",
+        "name": "Aberrant Dimetrodon",
+        "type": "Dinosaurs",
+        "itemId": null,
+        "image": "https://arkfury.com/images/120px-Aberrant_Dimetrodon.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 3,
+        "blueprint": "Dimetro_Character_BP_Aberrant_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Dimetrodon/Dimetro_Character_BP_Aberrant.Dimetro_Character_BP_Aberrant'",
+        "error": null,
+        "level": 150,
+        "id": "0729312a-b60e-4928-aeac-780901921b04",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 90,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Dinosaur",
+        "name": "Rex",
+        "type": "Dinosaurs",
+        "itemId": null,
+        "image": "https://arkfury.com/images/120px-Rex.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 200,
+        "amount": 2,
+        "blueprint": "Rex_Character_BP_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP'",
+        "error": null,
+        "level": 150,
+        "id": "d75cd622-55a4-427f-81bb-0cf11423f18c",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 100,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Dinosaur",
+        "name": "Argentavis",
+        "type": "Birds",
+        "itemId": null,
+        "image": "https://arkfury.com/images/120px-Argentavis.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 2,
+        "blueprint": "Argent_Character_BP_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP'",
+        "error": null,
+        "level": 150,
+        "id": "6774525a-9340-43fc-b8e2-c919e025a41f",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 95,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      }
+    ],
+    "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ],
+    "Vip": {
+      "Months": 2,
+      "Randomness": 20
+    },
+    "Point": {
+      "Amount": 1000,
+      "Randomness": 50
+    }
+  },
+  {
+    "LootType": "Lootbox",
+    "Price": 30000,
+    "Name": "Gold Lootbox",
+    "StackSize": 1,
+    "IsActive": true,
+    "Amount": 1,
+    "Items": [
+      {
+        "lootType": "Item",
+        "name": "Tek Quetzal Egg",
+        "type": "Eggs",
+        "itemId": "-",
+        "image": "https://arkfury.com/images/120px-Tek_Quetzal_Egg.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 1,
+        "blueprint": "PrimalItemConsumable_Egg_Quetz_Bionic_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Quetz_Bionic.PrimalItemConsumable_Egg_Quetz_Bionic'",
+        "error": null,
+        "id": "2b7abf5a-7613-4813-a3d9-9b0f085d32be",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 20,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Item",
+        "name": "Tek Rex Egg",
+        "type": "Eggs",
+        "itemId": "-",
+        "image": "https://arkfury.com/images/120px-Tek_Rex_Egg.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 1,
+        "blueprint": "PrimalItemConsumable_Egg_Rex_Bionic_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Rex_Bionic.PrimalItemConsumable_Egg_Rex_Bionic'",
+        "error": null,
+        "id": "cdb451f8-5c04-4c73-842c-b84e5604b93d",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 20,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Item",
+        "name": "Tek Rifle",
+        "type": "Weapons",
+        "itemId": "-",
+        "image": "https://arkfury.com/images/120px-Tek_Rifle.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 1,
+        "blueprint": "PrimalItem_TekRifle_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_TekRifle.PrimalItem_TekRifle'",
+        "error": null,
+        "id": "2dd9dead-1d0b-470a-91b0-0f90fe7dba31",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 50,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Item",
+        "name": "Paracer Platform Saddle",
+        "type": "Saddles",
+        "itemId": "423",
+        "image": "https://arkfury.com/images/120px-Paracer_Platform_Saddle.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 1,
+        "blueprint": "PrimalItemArmor_ParacerSaddle_Platform_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_ParacerSaddle_Platform.PrimalItemArmor_ParacerSaddle_Platform'",
+        "error": null,
+        "id": "0b53a5f8-ac29-449a-95e7-b8633d9eb789",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 50,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Item",
+        "name": "Fabricated Sniper Rifle",
+        "type": "Weapons",
+        "itemId": "436",
+        "image": "https://arkfury.com/images/120px-Fabricated_Sniper_Rifle.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 1,
+        "blueprint": "PrimalItem_WeaponMachinedSniper_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedSniper.PrimalItem_WeaponMachinedSniper'",
+        "error": null,
+        "id": "ad200cf7-8d84-4365-9802-ad682b2a2eec",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 50,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      }
+    ],
+    "Dinosaurs": [
+      {
+        "lootType": "Dinosaur",
+        "name": "Rex",
+        "type": "Dinosaurs",
+        "itemId": null,
+        "image": "https://arkfury.com/images/120px-Rex.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 200,
+        "amount": 2,
+        "blueprint": "Rex_Character_BP_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP'",
+        "error": null,
+        "level": 150,
+        "id": "d75cd622-55a4-427f-81bb-0cf11423f18c",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 90,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Dinosaur",
+        "name": "Paraceratherium",
+        "type": "Mammals",
+        "itemId": null,
+        "image": "https://arkfury.com/images/120px-Paraceratherium.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 1,
+        "blueprint": "Paracer_Character_BP_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Paraceratherium/Paracer_Character_BP.Paracer_Character_BP'",
+        "error": null,
+        "level": 150,
+        "id": "323e721b-9fd0-4a2b-96a2-77b754105eb3",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 70,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Dinosaur",
+        "name": "Giganotosaurus",
+        "type": "Dinosaurs",
+        "itemId": null,
+        "image": "https://arkfury.com/images/120px-Giganotosaurus.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 1,
+        "blueprint": "Gigant_Character_BP_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP'",
+        "error": null,
+        "level": 150,
+        "id": "e0b067c3-b919-450e-9600-23a34de645d0",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 70,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Dinosaur",
+        "name": "Quetzalcoatlus",
+        "type": "Reptiles",
+        "itemId": null,
+        "image": "https://arkfury.com/images/120px-Quetzalcoatlus.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 1,
+        "blueprint": "Quetz_Character_BP_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Quetzalcoatlus/Quetz_Character_BP.Quetz_Character_BP'",
+        "error": null,
+        "level": 150,
+        "id": "a93f5eda-73d0-4af7-87fa-4f47cfdcef9b",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 70,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Dinosaur",
+        "name": "Managarmr",
+        "type": "Fantasy Creatures",
+        "itemId": null,
+        "image": "https://arkfury.com/images/120px-Managarmr.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 3,
+        "blueprint": "IceJumper_Character_BP_C",
+        "blueprintPath": "Blueprint'/Game/Extinction/Dinos/IceJumper/IceJumper_Character_BP.IceJumper_Character_BP'",
+        "error": null,
+        "level": 150,
+        "id": "83383dc0-d573-41b6-b374-104a221d311a",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 90,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      }
+    ],
+    "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ],
+    "Vip": {
+      "Months": 2,
+      "Randomness": 20
+    },
+    "Point": {
+      "Amount": 1000,
+      "Randomness": 50
+    }
+  },
+  {
+    "LootType": "Lootbox",
+    "Price": 50000,
+    "Name": "Platinum Lootbox",
+    "StackSize": 1,
+    "IsActive": true,
+    "Amount": 1,
+    "Items": [
+      {
+        "lootType": "Item",
+        "name": "Tek Quetzal Egg",
+        "type": "Eggs",
+        "itemId": "-",
+        "image": "https://arkfury.com/images/120px-Tek_Quetzal_Egg.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 2,
+        "blueprint": "PrimalItemConsumable_Egg_Quetz_Bionic_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Quetz_Bionic.PrimalItemConsumable_Egg_Quetz_Bionic'",
+        "error": null,
+        "id": "2b7abf5a-7613-4813-a3d9-9b0f085d32be",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 90,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Item",
+        "name": "Tek Rex Egg",
+        "type": "Eggs",
+        "itemId": "-",
+        "image": "https://arkfury.com/images/120px-Tek_Rex_Egg.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 2,
+        "blueprint": "PrimalItemConsumable_Egg_Rex_Bionic_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Rex_Bionic.PrimalItemConsumable_Egg_Rex_Bionic'",
+        "error": null,
+        "id": "cdb451f8-5c04-4c73-842c-b84e5604b93d",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 90,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Item",
+        "name": "Tek Rifle",
+        "type": "Weapons",
+        "itemId": "-",
+        "image": "https://arkfury.com/images/120px-Tek_Rifle.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 1,
+        "blueprint": "PrimalItem_TekRifle_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_TekRifle.PrimalItem_TekRifle'",
+        "error": null,
+        "id": "2dd9dead-1d0b-470a-91b0-0f90fe7dba31",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 90,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Item",
+        "name": "Paracer Platform Saddle",
+        "type": "Saddles",
+        "itemId": "423",
+        "image": "https://arkfury.com/images/120px-Paracer_Platform_Saddle.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 1,
+        "blueprint": "PrimalItemArmor_ParacerSaddle_Platform_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_ParacerSaddle_Platform.PrimalItemArmor_ParacerSaddle_Platform'",
+        "error": null,
+        "id": "0b53a5f8-ac29-449a-95e7-b8633d9eb789",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 75,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Item",
+        "name": "Fabricated Sniper Rifle",
+        "type": "Weapons",
+        "itemId": "436",
+        "image": "https://arkfury.com/images/120px-Fabricated_Sniper_Rifle.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 1,
+        "blueprint": "PrimalItem_WeaponMachinedSniper_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedSniper.PrimalItem_WeaponMachinedSniper'",
+        "error": null,
+        "id": "ad200cf7-8d84-4365-9802-ad682b2a2eec",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 75,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      }
+    ],
+    "Dinosaurs": [
+      {
+        "lootType": "Dinosaur",
+        "name": "Rex",
+        "type": "Dinosaurs",
+        "itemId": null,
+        "image": "https://arkfury.com/images/120px-Rex.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 200,
+        "amount": 5,
+        "blueprint": "Rex_Character_BP_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP'",
+        "error": null,
+        "level": 150,
+        "id": "d75cd622-55a4-427f-81bb-0cf11423f18c",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 90,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Dinosaur",
+        "name": "Paraceratherium",
+        "type": "Mammals",
+        "itemId": null,
+        "image": "https://arkfury.com/images/120px-Paraceratherium.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 3,
+        "blueprint": "Paracer_Character_BP_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Paraceratherium/Paracer_Character_BP.Paracer_Character_BP'",
+        "error": null,
+        "level": 150,
+        "id": "323e721b-9fd0-4a2b-96a2-77b754105eb3",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 90,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Dinosaur",
+        "name": "Giganotosaurus",
+        "type": "Dinosaurs",
+        "itemId": null,
+        "image": "https://arkfury.com/images/120px-Giganotosaurus.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 3,
+        "blueprint": "Gigant_Character_BP_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP'",
+        "error": null,
+        "level": 150,
+        "id": "e0b067c3-b919-450e-9600-23a34de645d0",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 90,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Dinosaur",
+        "name": "Quetzalcoatlus",
+        "type": "Reptiles",
+        "itemId": null,
+        "image": "https://arkfury.com/images/120px-Quetzalcoatlus.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 3,
+        "blueprint": "Quetz_Character_BP_C",
+        "blueprintPath": "Blueprint'/Game/PrimalEarth/Dinos/Quetzalcoatlus/Quetz_Character_BP.Quetz_Character_BP'",
+        "error": null,
+        "level": 150,
+        "id": "a93f5eda-73d0-4af7-87fa-4f47cfdcef9b",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 95,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Dinosaur",
+        "name": "Managarmr",
+        "type": "Fantasy Creatures",
+        "itemId": null,
+        "image": "https://arkfury.com/images/120px-Managarmr.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 5,
+        "blueprint": "IceJumper_Character_BP_C",
+        "blueprintPath": "Blueprint'/Game/Extinction/Dinos/IceJumper/IceJumper_Character_BP.IceJumper_Character_BP'",
+        "error": null,
+        "level": 150,
+        "id": "83383dc0-d573-41b6-b374-104a221d311a",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 90,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Dinosaur",
+        "name": "Reaper King",
+        "type": "Fantasy Creatures",
+        "itemId": null,
+        "image": "https://arkfury.com/images/120px-Reaper_King.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 2,
+        "blueprint": "Xenomorph_Character_BP_Male_C",
+        "blueprintPath": "Blueprint'/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Male.Xenomorph_Character_BP_Male'",
+        "error": null,
+        "level": 150,
+        "id": "16703b8a-919b-4cf1-983c-657038dedd74",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 90,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      },
+      {
+        "lootType": "Dinosaur",
+        "name": "Rock Drake",
+        "type": "Fantasy Creatures",
+        "itemId": null,
+        "image": "https://arkfury.com/images/120px-Rock_Drake.png",
+        "stackSize": 1,
+        "isActive": true,
+        "price": 0,
+        "amount": 2,
+        "blueprint": "RockDrake_Character_BP_C",
+        "blueprintPath": "Blueprint'/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP'",
+        "error": null,
+        "level": 150,
+        "id": "3ba92be1-c613-4e76-9ee8-668a871b21e1",
+        "createDate": "2020-03-14T00:00:00",
+        "updateDate": "2020-03-14T00:00:00",
+        "createdBy": "SYSTEM",
+        "updatedby": "SYSTEM",
+
+
+
+        "Randomness": 90,
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ]
+      }
+    ],
+    "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ],
+    "Vip": {
+      "Months": 2,
+      "Randomness": 20
+    },
+    "Point": {
+      "Amount": 1000,
+      "Randomness": 50
+    }
+  },
+  {
+    "LootType": "Lootbox",
+    "Price": 25000,
+    "Name": "Mystery Lootbox",
+    "chanceAsPercentage": 100,
+    "StackSize": 1,
+    "IsActive": true,
+    "Amount": 1,
+    "Items": [],
+    "Dinosaurs": [],
+    "Lootboxes": [
+      {
+        "LootType": "Lootbox",
+        "Price": 5000,
+        "Name": "Bronze Lootbox",
+        "StackSize": 1,
+        "IsActive": true,
+        "Amount": 1,
+        "Items": [],
+        "Dinosaurs": [],
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ],
+        "Vip": {
+          "Months": 1,
+          "Randomness": 10
+        },
+        "Point": {
+          "Amount": 100,
+          "Randomness": 20
+        }
+      },
+      {
+        "LootType": "Lootbox",
+        "Price": 15000,
+        "Name": "Silver Lootbox",
+        "StackSize": 1,
+        "IsActive": true,
+        "Amount": 1,
+        "Items": [],
+        "Dinosaurs": [],
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ],
+        "Vip": {
+          "Months": 2,
+          "Randomness": 20
+        },
+        "Point": {
+          "Amount": 1000,
+          "Randomness": 50
+        }
+      },
+      {
+        "LootType": "Lootbox",
+        "Price": 30000,
+        "Name": "Gold Lootbox",
+        "StackSize": 1,
+        "IsActive": true,
+        "Amount": 1,
+        "Items": [],
+        "Dinosaurs": [],
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ],
+        "Vip": {
+          "Months": 2,
+          "Randomness": 20
+        },
+        "Point": {
+          "Amount": 1000,
+          "Randomness": 50
+        }
+      },
+      {
+        "LootType": "Lootbox",
+        "Price": 50000,
+        "Name": "Platinum Lootbox",
+        "StackSize": 1,
+        "IsActive": true,
+        "Amount": 1,
+        "Items": [],
+        "Dinosaurs": [],
+        "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ],
+        "Vip": {
+          "Months": 2,
+          "Randomness": 20
+        },
+        "Point": {
+          "Amount": 1000,
+          "Randomness": 50
+        }
+      }
+    ],
+    "Maps": [ "TheIsland", "Aberration", "ScorchedEarth", "TheCenter", "Extinction", "Genesis", "Ragnarok" ],
+    "Vip": {
+      "Months": 2,
+      "Randomness": 20
+    },
+    "Point": {
+      "Amount": 1000,
+      "Randomness": 50
+    }
+  }
+]
